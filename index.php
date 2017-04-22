@@ -272,17 +272,17 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://pinohh.herokuapp.com/team">
+                                <a href="https://pinohh.herokuapp.com/team.php">
                                 Team
                                 </a>
                             </li>
                             <li>
-                                <a href="https://pinohh.herokuapp.com/contact">
+                                <a href="https://pinohh.herokuapp.com/contact.php">
                                 Contact
                                 </a>
                             </li>
                             <li>
-                                <a href="https://pinohh.herokuapp.com/survey">
+                                <a href="https://pinohh.herokuapp.com/survey.php">
                                 Survey
                                 </a>
                             </li>
