@@ -65,7 +65,7 @@
           </team>
         </div>
         <br><br>
-        <div class="row">
+        <div class="row container">
           <div class="col-lg-6">
             <center>
               <div class="thumbnail">
