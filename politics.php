@@ -151,7 +151,7 @@
                         </li>
                         <li>
                             <a href="https://pinohh.herokuapp.com/politics.php">
-                            politics & confidentiality
+                            policy and privacy
                             </a>
                         </li>
                     </ul>
