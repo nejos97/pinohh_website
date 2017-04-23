@@ -65,7 +65,8 @@
           </team>
         </div>
         <br><br>
-        <div class="row container">
+        <div class="row">
+          <div class="container">
           <div class="col-lg-6">
             <center>
               <div class="thumbnail">
@@ -96,6 +97,7 @@
                   </div>
                 </center>
               </div>
+            </div>
         </div>
         <div class="section section-no-padding">
             <div class="parallax filter-gradient blue" data-color="blue">
