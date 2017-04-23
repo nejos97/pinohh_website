@@ -29,9 +29,6 @@
                             <div class="logo">
                                 <img src="assets/img/logo_pinohh.png" alt="Pinohh Logo">
                             </div>
-                            <div class="brand">
-                                Pinooh
-                            </div>
                         </div>
                     </a>
                 </div>
@@ -67,6 +64,7 @@
             <h1>Team members (; </h1>
           </team>
         </div>
+        <br><br>
         <div class="row">
           <div class="col-lg-6">
             <center>

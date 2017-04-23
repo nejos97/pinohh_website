@@ -837,12 +837,9 @@ a:focus, a:active {
 
 .logo-container .logo{
   overflow: hidden;
-  border-radius: 20%;
+  border-radius: 100%;
   width: 50px;
   float: left;
-  border: solid;
-  border-width: 2px;
-  border-color: #4CAF50;
 }
 
 .logo-container .brand{

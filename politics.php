@@ -29,9 +29,6 @@
                             <div class="logo">
                                 <img src="assets/img/logo_pinohh.png" alt="Pinohh Logo">
                             </div>
-                            <div class="brand">
-                                Pinooh
-                            </div>
                         </div>
                     </a>
                 </div>
