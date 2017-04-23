@@ -61,14 +61,15 @@
                 <!-- /.navbar-collapse -->
             </div>
         </nav>
-        <br><br><br><br>
+        <br/><br/><br/><br/>
         <div class="container">
           <p>
          	<h1>Welcome to Pinohh Privacy Policy </h1>
          		<p>
-         			<h3> Pinohh Terms of Service </h3>
+         			<h3> Pinohh Privacy Policy </h3>
          			<span><small> Last modified April 22, 2017</small></span> <br/>
         		</p>
+        
          	 	<h3> What kind of information do we collect ? </h3>
          	 	<p>
          	 		Pinohh mainly needs to collect information about your current profile on Messenger, this include :
@@ -100,7 +101,7 @@
          	 			We will notify you before we make changes to this policy and give you the opportunity to review and comment on the revised policy before continuing to use our Services.
          	 		</p>
 
-         	 	<h3> How to conatact Pinohh with questions  </h3>
+         	 	<h3> How to contact Pinohh with questions  </h3>
          	 		<p>
          	 			To learn more, you can contact Pinohh devs in this <a href="mailto:jonathanneba@gmail.com"> email</a> or this <a href="mailto: yagamidev@gmail.com"> one </a>, we'll be very proud to respond to your questions.
          	 		</p>
