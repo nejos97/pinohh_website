@@ -229,7 +229,7 @@
                                 </div>
                                 <div class="carousel-testimonial-caption">
                                     <p>Tcheobe Abel, CEO Founder</p>
-                                    <h3>"It is incredible what this application does. I am delighted because it help me very much. I am happy !!!"</h3>
+                                    <h3>"It is incredible what this application does. I am delighted because it help me very much."</h3>
                                 </div>
                             </div>
                         </div>
