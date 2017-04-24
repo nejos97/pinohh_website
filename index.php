@@ -74,7 +74,7 @@
                             <div class="description">
                                 <h2><center>Pinohh Bot</center></h2>
                                 <br>
-                                <h5>Be amazed by the best looking bootstrap landing page on the web! Your new app deserves an amazing page to show all of its features. Clear visual, light colours and beautifully aligned elements - they all try to make the users aware of your great app features!</h5>
+                                <h5>Be surprised by everything that pinohh does with its features and services. Your detailed road traffic, the poll vote and the programming of the anniversaries - all this regrouping within a single Bot Pinohh. I invite you to communicate with him in order to discover it completely.</h5>
                             </div>
                             <div class="buttons">
                                 <center>
