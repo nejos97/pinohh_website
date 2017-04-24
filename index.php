@@ -94,7 +94,7 @@
                   print_r($data);
                 ?>
                 <div class="container text-center">
-                    <h4 class="header-text">PINOHH STATISTICS<?php print_r($data); ?></h4>
+                    <h4 class="header-text">PINOHH STATISTICS<?php echo "hello" ?></h4>
                     <div class="row">
                       <div class="col-lg-3">
                         <h1><?php $data["nbrMessage"] ?></h1>
