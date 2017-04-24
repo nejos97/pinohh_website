@@ -97,19 +97,19 @@
                     <h4 class="header-text">PINOHH STATISTICS</h4>
                     <div class="row">
                       <div class="col-lg-3">
-                        <h1><?php $data["nbrMessage"] ?></h1>
+                        <h1><?php echo $data["nbrMessage"] ; ?></h1>
                         <h5>Messages</h5>
                       </div>
                       <div class="col-lg-3">
-                        <h1><?php $data["nbrUser"] ?></h1>
+                        <h1><?php echo $data["nbrUser"] ; ?></h1>
                         <h5>Users</h5>
                       </div>
                       <div class="col-lg-3">
-                        <h1><?php $data["nbrBirthday"] ?></h1>
+                        <h1><?php echo $data["nbrBirthday"] ; ?></h1>
                         <h5>Birthday programming</h5>
                       </div>
                       <div class="col-lg-3">
-                        <h1><?php $data["nbrVoteSurvey"] ?></h1>
+                        <h1><?php echo $data["nbrVoteSurvey"] ; ?></h1>
                         <h5>Survey Vote</h5>
                       </div>
                     </div>
