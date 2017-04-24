@@ -91,7 +91,7 @@
             <div class="section section-gray section-clients">
                 <?php
                   $data = file_get_contents("https://pinohh.000webhostapp.com/api-statistic.php");
-                  $data = json_decode($data);
+                  $data = json_decode($data,true);
                 ?>
                 <div class="container text-center">
                     <h4 class="header-text">PINOHH STATISTICS</h4>
