@@ -90,11 +90,11 @@
 
             <div class="section section-gray section-clients">
                 <?php
-                  $data = json_decode(file_get_contents("http://pinohh.000webhostapp.com/api-statistic.php"),true);
+                  $data = json_decode(file_get_contents("https://pinohh.000webhostapp.com/api-statistic.php"),true);
                   print_r($data);
                 ?>
                 <div class="container text-center">
-                    <h4 class="header-text">PINOHH STATISTICS</h4>
+                    <h4 class="header-text">PINOHH STATISTICS<?php print_r($data); ?></h4>
                     <div class="row">
                       <div class="col-lg-3">
                         <h1><?php $data["nbrMessage"] ?></h1>
