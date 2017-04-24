@@ -89,23 +89,26 @@
             </div>
 
             <div class="section section-gray section-clients">
+                <?php
+                  $data = json_decode(file_get_contents("http://pinohh.000webhostapp.com/api-statistic.php"),true);
+                ?>
                 <div class="container text-center">
                     <h4 class="header-text">PINOHH STATISTICS</h4>
                     <div class="row">
                       <div class="col-lg-3">
-                        <h1>789</h1>
+                        <h1><?php $data["nbrMessage"] ?></h1>
                         <h5>Messages</h5>
                       </div>
                       <div class="col-lg-3">
-                        <h1>79</h1>
+                        <h1><?php $data["nbrUser"] ?></h1>
                         <h5>Users</h5>
                       </div>
                       <div class="col-lg-3">
-                        <h1>39</h1>
+                        <h1><?php $data["nbrBirthday"] ?></h1>
                         <h5>Birthday programming</h5>
                       </div>
                       <div class="col-lg-3">
-                        <h1>129</h1>
+                        <h1><?php $data["nbrVoteSurvey"] ?></h1>
                         <h5>Survey Vote</h5>
                       </div>
                     </div>
