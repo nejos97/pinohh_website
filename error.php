@@ -62,6 +62,8 @@
         <div class="container">
           <center>
             <img src="assets/img/404.png" alt="4O4 Error"/>
+            <h1>Don't panic it's a 404 error</h1>
+            <h3>Go to <a href="https://pinohh.herokuapp.com">home</a> or <a href="https://pinohh.herokuapp.com/contact.php">contact a admin.</a></h3>
           </center>
         </div>
         <div class="section section-no-padding">
