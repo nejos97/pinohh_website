@@ -83,14 +83,14 @@
                    </p>
                 </div>
                 <br/>
-                <form action="" method="post">
+                <form action="https://pinohhbot.000webhostapp.com/api-add-survey.php" method="post">
                   <input type="text" name="nom" class="form-control input-lg" placeholder="Your name"><br/>
                   <input type="text" name="prenom" class="form-control input-lg" placeholder="Your lastname"><br/>
                   <input type="email" name="email" class="form-control input-lg" placeholder="Your email"><br/>
                   <textarea class="form-control input-lg" name="sondage" placeholder="Your survey"></textarea><br/>
                   <input type="text" name="image" class="form-control input-lg" placeholder="Image link to illustrate your survey JPG,PNG,GIF"><br/>
                   <input type="text" name="key" class="form-control input-lg" placeholder="Secret key that allow you to publish survey"><br/>
-                  <button type="submit" class="btn btn-primary"><span class="fa fa-send"></span> Submit Survey</button>
+                  <button type="submit" class="btn btn-primary" name="survey"><span class="fa fa-send"></span> Submit Survey</button>
                   <button type="reset" class="btn btn-danger"><span class="fa fa-remove"></span> Delete Survey</button>
                 </form>
               </div>
