@@ -288,8 +288,8 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://pinohh.herokuapp.com/politics.php">
-                              Policy and Privacy
+                                <a href="https://pinohh.herokuapp.com/policy.php">
+                                policy and privacy
                                 </a>
                             </li>
                         </ul>
