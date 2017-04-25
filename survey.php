@@ -80,7 +80,7 @@
                     <strong>Success!</strong> your survey Has been well sent.
                   </div>
                 <?php } else if(isset($_GET['task']) AND $_GET['task']!="ok") { ?>
-                  <div class="alert alert-success alert-dismissable">
+                  <div class="alert alert-danger alert-dismissable">
                     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
                     <strong>Error!</strong> something went wrong.
                   </div>
