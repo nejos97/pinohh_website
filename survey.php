@@ -74,17 +74,17 @@
                 <div class="page-header">
                   <h3>Survey submit form</h3>
                 </div>
-                <?php if(isset($_GET['task']) AND $_GET['task']=="ok") : ?>
+                <?php if(isset($_GET['task']) AND $_GET['task']=="ok") { ?>
                   <div class="alert alert-success alert-dismissable">
                     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
                     <strong>Success!</strong> your survey Has been well sent.
                   </div>
-                <?php else if(isset($_GET['task']) AND $_GET['task']!="ok") : ?>
+                <?php } else if(isset($_GET['task']) AND $_GET['task']!="ok") { ?>
                   <div class="alert alert-success alert-dismissable">
                     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
                     <strong>Error!</strong> something went wrong.
                   </div>
-                <?php endif ; ?>
+                <?php } ?>
                 <div style="border-left:solid 5px #aa6708; padding-left:20px ;border-radius: 3px 0px 0px 3px; ">
                    <h4 style="color:#aa6708">Length of the survey.</h4>
                    <p>
