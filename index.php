@@ -288,14 +288,14 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://pinohh.herokuapp.com/politics.php">
-                                politics & confidentiality
+                                <a href="https://pinohh.herokuapp.com/policy.php">
+                                policy and privacy
                                 </a>
                             </li>
                         </ul>
                     </nav>
                     <div class="copyright">
-                        &copy; 2016 <a href="http://pinohh.herokuapp.com">Pinohh</a>, <i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by <a href="https://github.com/nejos97">Nejos97</a></li>
+                        &copy; 2017 <a href="http://pinohh.herokuapp.com">Pinohh</a>, <i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by <a href="https://github.com/nejos97">Nejos97</a></li>
                     </div>
                 </div>
             </footer>

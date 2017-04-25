@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="assets/favicon/favicon.ico">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <title>Result and Submit Survey</title>
+        <title>Submit  a Survey</title>
         <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
         <meta name="viewport" content="width=device-width" />
 
@@ -63,7 +63,7 @@
         <br><br><br>
         <div style="background:#2ecc71">
           <center style="padding:80px">
-            <h1>Result and Submit Survey </h1>
+            <h1>Hello welcome to pinohh survey submission ! </h1>
           </team>
         </div>
         <br><br>
@@ -72,14 +72,14 @@
             <div class="container">
               <div class="col-lg-12">
                 <div class="page-header">
-                  <h3>Survey submit form</h3>
+                  <h3>Please fill the form below to complete you're submission.</h3>
                 </div>
                 <div style="border-left:solid 5px #aa6708; padding-left:20px ;border-radius: 3px 0px 0px 3px; ">
                    <h4 style="color:#aa6708">Length of the survey.</h4>
                    <p>
                      The length of your survey must be resonable, that is to say not too short or too long.
-                     Your survey should have the possible answer: for, against, neutral. At the moment, you will not have more
-                     choice but in the future, you would have the possibility to customize the response to your survey. Thanks
+                     Your survey should have these possible answers : for, against, neutral.
+                      At the moment, you won't have more choice but in the future, you would have the possibility to customize the response to your survey. Thanks
                    </p>
                 </div>
                 <br/>
@@ -141,13 +141,13 @@
                         </li>
                         <li>
                             <a href="https://pinohh.herokuapp.com/politics.php">
-                            politics & confidentiality
+                            policy and privacy
                             </a>
                         </li>
                     </ul>
                 </nav>
                 <div class="copyright">
-                    &copy; 2016 <a href="http://pinohh.herokuapp.com">Pinohh</a>, <i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by <a href="https://github.com/nejos97">Nejos97</a></li>
+                    &copy; 2017 <a href="http://pinohh.herokuapp.com">Pinohh</a>, <i class="fa fa-code"></i> with lot of <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> by <a href="https://github.com/nejos97">Nejos97</a></li>
                 </div>
             </div>
         </footer>
