@@ -123,7 +123,7 @@
             <div class="section section-presentation">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-md-6">
                             <div class="description">
                                 <h4 class="header-text">🇨🇲🤖❤ Pinohh</h4>
                                 <p>
@@ -131,7 +131,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-md-5 col-md-offset-1 hidden-xs">
                             <img src="assets/img/template/mac.png"/ class="img-responsive">
                         </div>
                     </div>
@@ -192,7 +192,7 @@
                                     <img src="assets/img/vos.jpg" class="img-responsive">
                                 </div>
                                 <h4>Vote Of Survey</h4>
-                                <p>With this service, participate and vote in the most popular poll. Every week, a new one is thrown and all the members can vote quietly. The result of the latest survey is available on this <a href="https://pinohh.herokuapp.com/survey.php">website.</a></p>
+                                <p>With this service, participate and vote in the most popular poll. Every week, a new one is thrown and all the members can vote quietly. The result of the latest survey is available on this <a href="https://pinohh">website.</a></p>
                             </div>
                         </div>
                         <div class="col-md-4">
