@@ -71,9 +71,6 @@
           <div class="container">
             <div class="container">
               <div class="col-lg-12">
-                <div class="page-header">
-                  <h3>Survey submit form</h3>
-                </div>
                 <?php if(isset($_GET['task']) AND $_GET['task']=="ok") { ?>
                   <div class="alert alert-success alert-dismissable">
                     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
@@ -89,8 +86,10 @@
                 <?php
                   $data = file_get_contents("https://pinohhbot.000webhostapp.com/api-get-last-survey.php");
                   $data = json_decode($data,true);
-                  var_dump($data);
                 ?>
+                <div class="page-header">
+                  <h3>Last survey result</h3>
+                </div>
                 <div class="row">
                   <div class="col-lg-6">
                     <img src="<?php echo $data['image'] ?>" class="img-responsive" />
@@ -98,13 +97,20 @@
                   <div class="col-lg-6">
                     <div class="row">
                       <div class="col-lg-12">
-                        <?php echo $data['text'] ?>
+                        <span style="font-size:4em;"><?php echo $data['text'] ?></span>
                       </div>
                       <div class="col-lg-12">
-                        <?php echo $data['author'] ?>
+                        <span style="text-align:right;"><?php echo $data['author'] ?></span>
+                      </div>
+                      <div class="col-lg-12">
+                        <span style="text-align:right;">Survey result</span>
                       </div>
                     </div>
                   </div>
+                </div>
+                <br><br>
+                <div class="page-header">
+                  <h3>Survey submit form</h3>
                 </div>
                 <div style="border-left:solid 5px #aa6708; padding-left:20px ;border-radius: 3px 0px 0px 3px; ">
                    <h4 style="color:#aa6708">Length of the survey.</h4>
