@@ -192,7 +192,7 @@
                                     <img src="assets/img/vos.jpg" class="img-responsive">
                                 </div>
                                 <h4>Vote Of Survey</h4>
-                                <p>With this service, participate and vote in the most popular poll. Every week, a new one is thrown and all the members can vote quietly. The result of the latest survey is available on my official website.</p>
+                                <p>With this service, participate and vote in the most popular poll. Every week, a new one is thrown and all the members can vote quietly. The result of the latest survey is available on this <a href="https://pinohh.herokuapp.com/survey.php">website.</a></p>
                             </div>
                         </div>
                         <div class="col-md-4">
