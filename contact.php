@@ -61,11 +61,13 @@
             </div>
         </nav>
         <br><br><br>
+        <!--
         <div style="background:#fbbc05">
-          <center >
+          <center style="padding:70px">
             <h1>Contact Pinohh Team </h1>
           </team>
         </div>
+        -->
         <br><br>
         <div class="row">
           <div class="container">
