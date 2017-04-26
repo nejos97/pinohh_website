@@ -132,7 +132,7 @@
                             </div>
                         </div>
                         <div class="col-md-5 col-md-offset-1 hidden-xs">
-                            <img src="assets/img/template/mac.png"/ class="img-responsive">
+                            <img src="assets/img/template/mac.png"/>
                         </div>
                     </div>
                 </div>
