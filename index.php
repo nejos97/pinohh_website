@@ -121,19 +121,17 @@
               <iframe width="660" height="415" src="https://www.youtube.com/embed/QAwL0O5nXe0" frameborder="0" allowfullscreen></iframe>
             </center>
             <div class="section section-presentation">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="description">
-                                <h4 class="header-text">🇨🇲🤖❤ Pinohh</h4>
-                                <p>
-                                  Hello, view the progress that the bot has made to our leading century, we have designed pinohh which is a bot from the messenger platform and which allows to make a number of basic service. By communicating with him, he will present you his main services and you can then test and approve.
-                                </p>
-                            </div>
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="description">
+                            <h4 class="header-text">🇨🇲🤖❤ Pinohh</h4>
+                            <p>
+                              Hello, view the progress that the bot has made to our leading century, we have designed pinohh which is a bot from the messenger platform and which allows to make a number of basic service. By communicating with him, he will present you his main services and you can then test and approve.
+                            </p>
                         </div>
-                        <div class="col-md-5 col-md-offset-1 hidden-xs">
-                            <img src="assets/img/template/mac.png"/>
-                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <img src="assets/img/template/mac.png"/>
                     </div>
                 </div>
             </div>
