@@ -162,7 +162,7 @@
                             </div>
                         </div>
                         <div class="col-md-5 col-md-offset-1">
-                            <h5>Easy to understand 👌👌</h5>
+                            <h3>EASY TO UNDERSTAND 👌👌</h3>
                             <p>
                                 Pinohh is easy to understand because from the beginning of your conversation, it learns to know you and will answer you with kindness. Do not be afraid to communicate with him because he wants only good for you.
                             </p>
