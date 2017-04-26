@@ -64,7 +64,7 @@
         <div style="background:#2ecc71">
           <center style="padding:80px">
             <h1>Result and Submit Survey </h1>
-          </team>
+          </center>
         </div>
         <br><br>
         <div class="row">
@@ -89,6 +89,7 @@
                 <?php
                   $data = file_get_contents("http://http://pinohhbot.000webhostapp.com/api-get-last-survey.php");
                   $data = json_decode($data,true);
+                  var_dump($data);
                 ?>
                 <div class="row">
                   <div class="col-lg-6">
