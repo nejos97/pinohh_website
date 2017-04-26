@@ -116,7 +116,10 @@
                 </div>
             </div>
             <!--Insersion de la video youtube -->
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/QAwL0O5nXe0" frameborder="0" allowfullscreen></iframe>
+            <br/><br/>
+            <center>
+              <iframe width="660" height="415" src="https://www.youtube.com/embed/QAwL0O5nXe0" frameborder="0" allowfullscreen></iframe>
+            </center>
             <div class="section section-presentation">
                 <div class="container">
                     <div class="row">
