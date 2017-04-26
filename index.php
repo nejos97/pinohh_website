@@ -125,7 +125,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="description">
-                                <h4 class="header-text">It's beautiful  to chat with Pinohh</h4>
+                                <h4 class="header-text">🇨🇲🤖❤ Pinohh</h4>
                                 <p>
                                   Hello, view the progress that the bot has made to our leading century, we have designed pinohh which is a bot from the messenger platform and which allows to make a number of basic service. By communicating with him, he will present you his main services and you can then test and approve.
                                 </p>
