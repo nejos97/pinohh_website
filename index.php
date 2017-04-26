@@ -182,7 +182,7 @@
                                 </div>
                                 <div class="text">
                                     <h4>Road Traffic Layer</h4>
-                                    <p>All appointments sync with your Google calendar so your availability is always up to date. See your schedule at a glance from any device.</p>
+                                    <p>The service ROAD TRAFFIC LAYER is a service that helps you to determine the road traffic that happens in a precise position. It can allow you to have a help on the traffics and thus take the path that you like the most.</p>
                                 </div>
                             </div>
                         </div>
@@ -192,7 +192,7 @@
                                     <img src="assets/img/vos.jpg" class="img-responsive">
                                 </div>
                                 <h4>Vote Of Survey</h4>
-                                <p>Automatic text and email reminders make sure customers always remember their upcoming appointments.</p>
+                                <p>With this service, participate and vote in the most popular poll. Every week, a new one is thrown and all the members can vote quietly. The result of the latest survey is available on my official website.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -201,7 +201,7 @@
                                     <img src="assets/img/bp.jpg" class="img-responsive">
                                 </div>
                                 <h4>Birthday Programming</h4>
-                                <p>Take payments and run your business on the go, in your store and then see how it all adds up with analytics.</p>
+                                <p>Too many birthday misses? I come to end all this with my BIRTHDAY PROGRAMMING service which allows you to program the birthday of your loved ones and after I take everything in hand to satisfy your friends.</p>
                             </div>
                         </div>
                     </div>
