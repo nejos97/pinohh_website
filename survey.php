@@ -134,7 +134,7 @@
                    <p>
                      The length of your survey must be resonable, that is to say not too short or too long.
                      Your survey should have the possible answer: for, against, neutral. At the moment, you will not have more
-                     choice but in the future, you would have the possibility to customize the response to your survey. Thanks
+                     choice concerning a survey response(for,against,neutral) but in the future, you would have the possibility to customize the response to your survey. Thanks
                    </p>
                 </div>
                 <br/>
@@ -195,7 +195,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://pinohh.herokuapp.com/politics.php">
+                            <a href="https://pinohh.herokuapp.com/policy.php">
                             politics & confidentiality
                             </a>
                         </li>

@@ -142,7 +142,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://pinohh.herokuapp.com/politics.php">
+                            <a href="https://pinohh.herokuapp.com/policy.php">
                             politics & confidentiality
                             </a>
                         </li>

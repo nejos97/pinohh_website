@@ -66,7 +66,7 @@
          			<h3> Pinohh Privacy Policy </h3>
          			<span><small> Last modified April 22, 2017</small></span> <br/>
         		</p>
-        
+
          	 	<h3> What kind of information do we collect ? </h3>
          	 	<p>
          	 		Pinohh mainly needs to collect information about your current profile on Messenger, this include :
@@ -147,7 +147,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://pinohh.herokuapp.com/politics.php">
+                            <a href="https://pinohh.herokuapp.com/policy.php">
                             policy and privacy
                             </a>
                         </li>
