@@ -85,6 +85,26 @@
                     <strong>Error!</strong> something went wrong.
                   </div>
                 <?php } ?>
+
+                <?php
+                  $data = file_get_contents("http://http://pinohhbot.000webhostapp.com/api-get-last-survey.php");
+                  $data = json_decode($data,true);
+                ?>
+                <div class="row">
+                  <div class="col-lg-6">
+                    <img src="<?php echo $data['image'] ?>" />
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <?php echo $data['text'] ?>
+                      </div>
+                      <div class="col-lg-12">
+                        <?php echo $data['author'] ?>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div style="border-left:solid 5px #aa6708; padding-left:20px ;border-radius: 3px 0px 0px 3px; ">
                    <h4 style="color:#aa6708">Length of the survey.</h4>
                    <p>
