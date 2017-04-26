@@ -162,9 +162,9 @@
                             </div>
                         </div>
                         <div class="col-md-5 col-md-offset-1">
-                            <h4 class="header-text">Easy to understand 👌👌</h4>
+                            <h5 class="header-text">Easy to understand 👌👌</h5>
                             <p>
-                                With all the apps that users love! Make it easy for users to share, like, post and tweet their favourite things from the app. Be sure to let users know they continue to remain connected while using your app!
+                                Pinohh is easy to understand because from the beginning of your conversation, it learns to know you and will answer you with kindness. Do not be afraid to communicate with him because he wants only good for you.
                             </p>
                         </div>
                     </div>
