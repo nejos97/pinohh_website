@@ -87,8 +87,8 @@
                 <?php } ?>
 
                 <?php
-                  $data = file_get_contents("http://http://pinohhbot.000webhostapp.com/api-get-last-survey.php");
-                  //$data = json_decode($data,true);
+                  $data = file_get_contents("https://pinohhbot.000webhostapp.com/api-get-last-survey.php");
+                  $data = json_decode($data,true);
                   var_dump($data);
                 ?>
                 <div class="row">
