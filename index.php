@@ -178,10 +178,10 @@
                         <div class="col-md-4">
                             <div class="card card-blue">
                                 <div class="icon">
-                                    <i class="pe-7s-note2"></i>
+                                    <img src="assets/img/rtl.jpg" class="img-responsive">
                                 </div>
                                 <div class="text">
-                                    <h4>Online Customers Management</h4>
+                                    <h4>Road Traffic Layer</h4>
                                     <p>All appointments sync with your Google calendar so your availability is always up to date. See your schedule at a glance from any device.</p>
                                 </div>
                             </div>
@@ -189,18 +189,18 @@
                         <div class="col-md-4">
                             <div class="card card-blue">
                                 <div class="icon">
-                                    <i class="pe-7s-bell"></i>
+                                    <img src="assets/img/vos.jpg" class="img-responsive">
                                 </div>
-                                <h4>Smart Notifications on hands</h4>
+                                <h4>Vote Of Survey</h4>
                                 <p>Automatic text and email reminders make sure customers always remember their upcoming appointments.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="card card-blue">
                                 <div class="icon">
-                                    <i class="pe-7s-graph1"></i>
+                                    <img src="assets/img/bp.jpg" class="img-responsive">
                                 </div>
-                                <h4>Know your business better now</h4>
+                                <h4>Birthday Programming</h4>
                                 <p>Take payments and run your business on the go, in your store and then see how it all adds up with analytics.</p>
                             </div>
                         </div>
