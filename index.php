@@ -125,10 +125,10 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="description">
-                                <h4 class="header-text">It's beautiful</h4>
-                                <p>And your app is also probably social, awesome, easy-to-use and vital to users. This is the place to enlist all the good things that your app has to share. Focus on the benefits that the uers will receive. Try to combine imaginery with text and show meaningful printscreens from your app, that will make it clear what exactly the basic functions are. </p>
-                                <p>Try to make it very clear for the people browsing the page that this product will enrich their life and will make a nice addition to the homescreen.
+                                <h4 class="header-text">It's beautiful  to chat with Pinohh</h4>
                                 <p>
+                                  Hello, view the progress that the bot has made to our leading century, we have designed pinohh which is a bot from the messenger platform and which allows to make a number of basic service. By communicating with him, he will present you his main services and you can then test and approve.
+                                </p>
                             </div>
                         </div>
                         <div class="col-md-5 col-md-offset-1 hidden-xs">
