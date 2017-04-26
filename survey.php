@@ -93,7 +93,7 @@
                 ?>
                 <div class="row">
                   <div class="col-lg-6">
-                    <img src="<?php echo $data['image'] ?>" />
+                    <img src="<?php echo $data['image'] ?>" class="img-responsive" />
                   </div>
                   <div class="col-lg-6">
                     <div class="row">
