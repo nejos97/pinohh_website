@@ -62,7 +62,7 @@
         </nav>
         <br><br><br>
         <div style="background:#fbbc05">
-          <center style="padding:80px">
+          <center style="padding:50px">
             <h1>Contact Pinohh Team </h1>
           </team>
         </div>
