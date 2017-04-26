@@ -162,11 +162,10 @@
                             </div>
                         </div>
                         <div class="col-md-5 col-md-offset-1">
-                            <h4 class="header-text">Easy to integrate</h4>
+                            <h4 class="header-text">Easy to understand 👌👌</h4>
                             <p>
                                 With all the apps that users love! Make it easy for users to share, like, post and tweet their favourite things from the app. Be sure to let users know they continue to remain connected while using your app!
                             </p>
-                            <a href="http://www.creative-tim.com/product/awesome-landing-page" id="Demo3" class="btn btn-fill btn-info" data-button="info">Get Free Demo</a>
                         </div>
                     </div>
                 </div>
