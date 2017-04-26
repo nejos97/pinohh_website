@@ -97,13 +97,17 @@
                   <div class="col-lg-6">
                     <div class="row">
                       <div class="col-lg-12">
-                        <span style="font-size:4em;"><?php echo $data['text'] ?></span>
+                        <span style="font-size:3em;"><?php echo $data['text'] ?></span>
                       </div>
                       <div class="col-lg-12">
-                        <span style="text-align:right;"><?php echo $data['author'] ?></span>
+                        <span align="right"><em><?php echo $data['author'] ?></em></span>
                       </div>
                       <div class="col-lg-12">
-                        <span style="text-align:right;">Survey result</span>
+                        <div class="row">
+                          <div class="col-lg-4">23</div>
+                          <div class="col-lg-4">02</div>
+                          <div class="col-lg-4">10</div>
+                        </div>
                       </div>
                     </div>
                   </div>
