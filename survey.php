@@ -100,13 +100,19 @@
                         <span style="font-size:3em;"><?php echo $data['text'] ?></span>
                       </div>
                       <div class="col-lg-12">
-                        <span align="right"><em><?php echo $data['author'] ?></em></span>
+                        <div style="text-align:right;font-size:0.7"><em><?php echo $data['author'] ?></em></div>
                       </div>
-                      <div class="col-lg-12">
+                      <div class="col-lg-12" style="text-align:center">
                         <div class="row">
-                          <div class="col-lg-4">23</div>
-                          <div class="col-lg-4">02</div>
-                          <div class="col-lg-4">10</div>
+                          <div class="col-lg-4">
+                            <h3>23</h3>
+                          </div>
+                          <div class="col-lg-4">
+                            <h3>02</h3>
+                          </div>
+                          <div class="col-lg-4">
+                            <h3>10</h3>
+                          </div>
                         </div>
                       </div>
                     </div>
