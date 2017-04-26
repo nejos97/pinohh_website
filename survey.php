@@ -97,21 +97,28 @@
                   <div class="col-lg-6">
                     <div class="row">
                       <div class="col-lg-12">
-                        <span style="font-size:3em;"><?php echo $data['text'] ?></span>
+                        <span style="font-size:2.6em;"><?php echo $data['text'] ?></span>
                       </div>
                       <div class="col-lg-12">
-                        <div style="text-align:right;font-size:0.7"><em><?php echo $data['author'] ?></em></div>
+                        <div style="text-align:right;font-size:1.3"><em><?php echo $data['author'] ?></em></div>
                       </div>
+                      <?php
+                        $data = file_get_contents("https://pinohhbot.000webhostapp.com/api-get-survey-result.php");
+                        $data = json_decode($data,true);
+                      ?>
                       <div class="col-lg-12" style="text-align:center">
                         <div class="row">
                           <div class="col-lg-4">
-                            <h3>23</h3>
+                            <h3><?php echo $data['for'] ?></h3>
+                            For
                           </div>
                           <div class="col-lg-4">
-                            <h3>02</h3>
+                            <h3><?php echo $data['against'] ?></h3>
+                            Against
                           </div>
                           <div class="col-lg-4">
-                            <h3>10</h3>
+                            <h3><?php echo $data['neutral'] ?></h3>
+                            Neutral
                           </div>
                         </div>
                       </div>
