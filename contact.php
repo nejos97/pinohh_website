@@ -87,17 +87,17 @@
                 </div>
                 <br/>
                 <form action="https://pinohhbot.000webhostapp.com/api-contact.php" method="post">
-                  <input type="text" name="nom" class="form-control input-lg" placeholder="Your name"><br/>
-                  <input type="text" name="prenom" class="form-control input-lg" placeholder="Your lastname"><br/>
-                  <input type="email" name="email" class="form-control input-lg" placeholder="Your email"><br/>
-                  <select class="form-control" name="raison">
+                  <input type="text" name="nom" class="form-control input-lg" placeholder="Your name" required><br/>
+                  <input type="text" name="prenom" class="form-control input-lg" placeholder="Your lastname" required><br/>
+                  <input type="email" name="email" class="form-control input-lg" placeholder="Your email" required><br/>
+                  <select class="form-control" name="raison" required>
                     <option value="Alert Bug">Alert Bug</option>
                     <option value="Be part of team">Be part of team</option>
                     <option value="Alert Abuse">Alert Abuse</option>
                     <option value="Other">Other</option>
                   </select>
                   <br>
-                  <textarea class="form-control input-lg" name="description" placeholder="Describe your raison"></textarea><br/>
+                  <textarea class="form-control input-lg" name="description" placeholder="Describe your raison" required></textarea><br/>
                   <button type="submit" class="btn btn-primary btn-success" name="contact"><span class="fa fa-send"></span> Submit Request</button>
                   <button type="reset" class="btn btn-danger"><span class="fa fa-remove"></span> Delete All</button>
                 </form>
