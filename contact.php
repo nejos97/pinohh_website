@@ -69,6 +69,17 @@
         <br><br>
         <div class="row">
           <div class="container">
+            <?php if(isset($_GET['task']) AND $_GET['task']=="ok") { ?>
+              <div class="alert alert-success alert-dismissable">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                <strong>Success!</strong> your request Has been well sent.
+              </div>
+            <?php } else if(isset($_GET['task']) AND $_GET['task']!="ok") { ?>
+              <div class="alert alert-danger alert-dismissable">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                <strong>Error!</strong> something went wrong.
+              </div>
+            <?php } ?>
             <div class="container">
               <div class="col-lg-12">
                 <div class="page-header">
