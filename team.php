@@ -61,7 +61,7 @@
         <br><br><br>
         <div style="background:#FF9800">
           <center style="padding:80px">
-            <h1>Team members (; </h1>
+            <h1>Team members </h1>
           </div>
         </div>
         <br><br>
